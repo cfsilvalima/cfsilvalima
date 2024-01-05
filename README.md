@@ -1,4 +1,4 @@
-- 👋 Opa! Me chmao Fred.
+- 👋 Opa! Me chamo Fred.
 - 👀 Analista de infraestrutura especialista em System Center.
 - 🌱 Visando juntar a experiência em automação bancária com cyber segurança.
 - 💞️ Fique a vontade para trocar idéias e compartilhar conhecimento.
